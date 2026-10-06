@@ -1,1 +1,7 @@
-
+.navbar .dropdown-menu {
+  --bs-dropdown-bg: var(--bs-info-bg-subtle);
+  --bs-dropdown-border-width: 0;
+  --bs-dropdown-border-radius: 0;
+  --bs-dropdown-box-shadow: none;
+  box-shadow: none;
+}
